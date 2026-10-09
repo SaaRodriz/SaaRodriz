@@ -1,4 +1,4 @@
-## Olá! Meu nome é Sara Rodrigues
+## Olá! Meu nome é Sara
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas, em formação na área de desenvolvimento backend, com foco em C#, .Net e SQL
 
